@@ -1,0 +1,96 @@
+body {
+    background: url("../images/just-waves.png")#001f3f;
+}
+#wrapper {
+    max-width: 960px;
+    background: #fff;
+    margin: 0 auto;
+    padding: 0 1em;
+}
+header {
+        position: relative;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        border-bottom: 1px solid #777777;
+}
+
+.nav {
+    position: absolute;
+    top: 10px;
+    right: 0px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+.nav li {
+    display: inline;
+    list-style-type: none;
+    border-right: 1px solid #777777;
+    padding: 0 1em 0 1em;
+}
+
+.nav li a {
+    text-decoration: none;
+    color: #777777
+}
+
+
+.logo {
+    padding: 20px;
+    width: 150px;
+    background:#001f3f;
+    font-size: 24px;
+    color: white;
+}
+
+
+.title {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding-bottom: 1em;
+    padding-left: 20px;
+    border-bottom: 1px solid gray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color:#001f3f;
+}
+
+
+.image {
+    float: left;
+    padding-left: 20px;
+}
+
+img {
+    height: auto;
+    width: 170px;
+    margin-right: 1em;
+}
+
+#gallery {
+    display: block;
+    margin-top: 2em;
+    position: relative;
+}
+
+.content {
+    line-height: 30px;
+    padding-left: 20px;
+    padding-bottom: 2em;
+}
+.form {
+    padding: 2em 0;
+}
+
+input {
+    width: 950px;
+    margin-bottom: 2em;
+}
+
+
+footer {
+    text-align: center;
+    background-color: #001f3f;
+    padding: 1em;
+    color: white;
+    border-top: 2px solid #86DAFA;
+}
