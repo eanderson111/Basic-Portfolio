@@ -72,16 +72,6 @@ img {
     position: relative;
 }
 
-.photo {
-    position: relative;
-}
-
-.content {
-    position: absolute;
-    top: 0%;
-    left: 2%;
-}
-
 .content {
     line-height: 30px;
     padding-left: 20px;
