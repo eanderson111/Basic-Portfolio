@@ -6,6 +6,7 @@ body {
     background: #fff;
     margin: 0 auto;
     padding: 0 1em;
+    height: 500px;
 }
 header {
         position: relative;
@@ -70,6 +71,10 @@ img {
     display: block;
     margin-top: 2em;
     position: relative;
+}
+
+.photo {
+    float: left;
 }
 
 .content {
